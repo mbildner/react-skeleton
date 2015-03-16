@@ -1,0 +1,19 @@
+{
+  "name": "ReactBot",
+  "version": "0.0.0",
+  "authors": [
+    "Moshe Bildner <moshe.bildner@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.0",
+    "lodash": "~3.5.0"
+  }
+}
